@@ -135,6 +135,9 @@
 
 .body_header_title {
     margin-top: 189px;
+    margin-left: 447px;
+    width: 547px;
+
 }
 .body_header_title h2 {
     font-style: normal;
@@ -144,5 +147,180 @@
     text-align: center;
     letter-spacing: 0.42px;
     color: #0B2330;
+
 }
 
+.body_icon {
+    display: flex;
+    column-gap: 81px;
+    row-gap: 16px;
+    flex-wrap: wrap;
+    margin: 59px 173px 192px;
+
+}
+
+.body_bicycle {
+    background: #51CEBC;
+    border-radius: 10px;
+    display: flex;
+    margin: 0 32px;
+
+}
+
+.body_bicycle_text {
+    width: 557px;
+}
+
+.body_bicycle_text_title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+    color: #0B2330;
+    padding-top: 114px;
+}
+
+.body_bicycle_text_text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 32px;
+    color: #0B2330;
+}
+
+.body_bicycle_img {
+    padding: 56px 0;
+}
+
+.study_form {
+    margin-top: 191px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ctudy_form_title {
+    width: 711px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.34px;
+    color: #0B2330;
+    margin-bottom: 57px;
+}
+
+.study_form_img {
+    margin-bottom: 113px;
+}
+
+.study_form_button {
+    width: 163px;
+    height: 54px;
+    background: #F9C600;
+    border: 1px solid #F9C600;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.body_target {
+    width: 1260px;
+    height: 537px;
+    background: #BD78F0;
+    border-radius: 10px;
+    margin: 160px 32px 136px 148px;
+    display: flex;
+    position: relative;
+    flex-direction: row-reverse;
+}
+
+.body_target_text_title {
+    width: 485px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing: 0.42px;
+    color: #0B2330;
+       margin-top: 103px;
+    margin-bottom: 39px;
+}
+
+.body_target_text_text {
+    width: 550px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 28px;
+    color: #0B2330;
+    margin: 0;
+   padding-right: 128px;
+}
+
+.body_target_img img {
+   position: absolute;
+    top: 64px;
+    left: -115px;
+
+}
+
+.body_solution {
+    margin-left: 148px;
+    margin-bottom: 219px;
+}
+
+.body_solution_head {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #6A7981;
+}
+
+.body_solution_title {
+    width: 593px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing: 0.42px;
+    color: #0B2330;
+    margin-top: 13px;
+    margin-bottom: 26px;
+}
+
+.body_solution_text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 32px;
+    color: #375361;
+}
+
+.body_context {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.body_context_text_title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.34px;
+    color: #0B2330;
+}
+
+.body_context_text_text {
+    width: 484px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 28px;
+    color: #375361;
+}
